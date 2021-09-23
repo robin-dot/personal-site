@@ -1,29 +1,21 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'interior designing',
+    image: '/images/projects/interior design-snapshot.png',
+    date: '2021-01-9',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'I went to Rumsey Hall for four years, and I was always frustrated by the plainness of my room: an 8x6 ft. shoebox that felt like a cell. If I was lucky, I’d see a rat dashing across the floor. I found comfort in imagining what that room could have been, and so in high school I re-designed my dorm’s interior to feel more like home and a place of comfort',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
+    title: 'Package design',
     image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    date: '2020-11-27',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'This cookie package was an assignment from a graphic design class. The outcome of this design, once folded, is supposed to resemble an oven. No one really thinks about how packages are made, and it is unusual to see someone admire the package more than the object inside the package. But through my journey with this assignment, I have learned the complex route to what it takes for a package design to be decided. Noticing my lack of foresight, I started to pay attention to topics/subjects that seemed innate for us to assume and question why or what made us innate to it.',
   },
   {
-    title: 'Space Potato',
+    title: 'Magazine Layout',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
     link: 'http://www.spacepotato.org',
     image: '/images/projects/spacepotato.jpg',
@@ -34,7 +26,7 @@ const data = [
       + 'You can email me for a copy.',
   },
   {
-    title: 'Cat Detector',
+    title: 'Loop animation',
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',
     image: '/images/projects/catdetector.jpg',
     date: '2015-05-15',
@@ -42,6 +34,21 @@ const data = [
       'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
       + 'Over 60,000 cats were classified before server bills made the project too expensive '
       + 'to continue hosting.',
+  },
+  {
+    title: 'Guitar',
+    date: '2019--06--19',
+    desc: '',
+  },
+  {
+    title: 'CS50',
+    date: '',
+    desc: '',
+  },
+  {
+    title: 'CS2110',
+    date: '',
+    desc: '',
   },
 ];
 
