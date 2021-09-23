@@ -12,8 +12,7 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/9X3NZiNLXXU" title="My Guitar Beat" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen> p </iframe>
           </p>
         </div>
       </header>
