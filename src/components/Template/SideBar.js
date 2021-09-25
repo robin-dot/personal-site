@@ -9,7 +9,7 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/projects/selfie.jpg`} alt="" />
       </Link>
       <header>
         <h2>Robin Young</h2>
@@ -22,7 +22,7 @@ const SideBar = () => (
       <p>Hello, I&apos;m Robin, and this is my story.
         I am a student in Stony Brook School, and in the graduate class of 2022.
         I was born and raised in Indonesia up until I was 10. Since then I moved to the US, and
-        adapted myself to a new environemnt and a new system to follow
+        adapted myself to a new environment and a new system to follow
       </p>
       <ul className="actions">
         <li>

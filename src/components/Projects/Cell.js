@@ -12,6 +12,9 @@ const Cell = ({ data }) => (
       <a href={data.link} className="image">
         <img src={`${process.env.PUBLIC_URL}${data.image}`} alt={data.title} />
       </a>
+      <a href={data.link} className="video">
+        <iframe width="560" height="315" src={data.video} title={data.title} frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen> p </iframe>
+      </a>
       <div className="description">
         <p>{data.desc}</p>
       </div>
@@ -24,6 +27,7 @@ Cell.propTypes = {
     title: PropTypes.string.isRequired,
     link: PropTypes.string,
     image: PropTypes.string.isRequired,
+    video: PropTypes.string,
     date: PropTypes.string.isRequired,
     desc: PropTypes.string.isRequired,
   }).isRequired,
