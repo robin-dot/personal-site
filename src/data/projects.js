@@ -1,6 +1,13 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: '2WD',
+    subtitle: 'This app locates wheelchair accessible bathrooms for those in need.',
+    video: 'https://www.youtube.com/embed/BPfbTg3palo',
+    date: '',
+    desc: '',
+  },
+  {
     title: 'interior designing',
     image: '/images/projects/interior-design-snapshot.png',
     date: '2021-01-9',
@@ -9,7 +16,7 @@ const data = [
   },
   {
     title: 'Package design',
-    image: '/images/projects/package-design.png',
+    image: '/images/projects/package-designs.png',
     date: '2020-11-27',
     desc:
       'This cookie package was an assignment from a graphic design class. The outcome of this design, once folded, is supposed to resemble an oven. No one really thinks about how packages are made, and it is unusual to see someone admire the package more than the object inside the package. But through my journey with this assignment, I have learned the complex route to what it takes for a package design to be decided. Noticing my lack of foresight, I started to pay attention to topics/subjects that seemed innate for us to assume and question why or what made us innate to it.',
