@@ -10,8 +10,7 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
-          <h3>Welcome to My personal website</h3>
+          <h2>Welcome to My personal website</h2>
           <p>
             Feel free to read more <Link to="/about">about me</Link>,
             or you can check out my {' '}
