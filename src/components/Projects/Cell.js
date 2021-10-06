@@ -15,9 +15,6 @@ const Cell = ({ data }) => (
       <a href={data.link} className="video">
         <iframe width="560" height="315" src={data.video} title={data.title} frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen> p </iframe>
       </a>
-      <a href="https://imgur.com/a/dMpYbyT" className="gif">
-        <img src="0001-0120.gif" alt={data.title} />
-      </a>
       <div className="description">
         <p>{data.desc}</p>
       </div>
