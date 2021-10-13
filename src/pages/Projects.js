@@ -4,7 +4,8 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
 import Cell from '../components/Projects/Cell';
-import data from '../data/projects';
+import VideoCell from '../components/Projects/VideoCell';
+import { data, videodata } from '../data/projects';
 
 const Projects = () => (
   <Main
@@ -18,6 +19,12 @@ const Projects = () => (
           <p>Things I&apos;ve done</p>
         </div>
       </header>
+      {videodata.map((project) => (
+        <VideoCell
+          data={project}
+          key={project.title}
+        />
+      ))}
       {data.map((project) => (
         <Cell
           data={project}

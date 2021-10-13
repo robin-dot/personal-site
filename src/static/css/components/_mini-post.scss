@@ -9,8 +9,7 @@
   position: relative;
 
   .description {
-    position: absolute;
-    padding: 0;
+    // position: absolute;
     bottom: 0;
     border-top: solid 1px _palette(border);
 
@@ -48,6 +47,22 @@
   margin: 0 0 _size(element-margin);
 
   .image {
+    overflow: hidden;
+    width: 100%;
+
+    img {
+      @include vendor( 'transition', 'transform #{_duration(transition)} ease-out');
+      width: 100%;
+    }
+
+    &:hover {
+      img {
+        @include vendor( 'transform', 'scale(1.05)');
+      }
+    }
+  }
+
+  .video {
     overflow: hidden;
     width: 100%;
 

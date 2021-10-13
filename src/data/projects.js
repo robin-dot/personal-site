@@ -1,13 +1,6 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: '2WD',
-    subtitle: 'This app locates wheelchair accessible bathrooms for those in need.',
-    video: 'https://www.youtube.com/embed/BPfbTg3palo',
-    date: '2021-06  -25',
-    desc: 'A group of friends and I were inspired by the stories we heard of those with disabilities. We realize that we take restrooms for granted on a daily basis, while those with disabilities face obstacles every step of the way when it comes to finding wheelchair-accessible restrooms. This is our design of a potential app for fulfilling this need',
-  },
-  {
     title: 'interior designing',
     image: '/images/projects/interior-design-snapshot.png',
     date: '2021-01-9',
@@ -34,17 +27,33 @@ const data = [
     desc: 'I created this animation using Blender. Ever since I started high school, I’ve been fond of retro 80s vibes, and so I was inspired to loop a neon car driving endlessly towards the sun over the horizon.',
   },
   {
-    title: 'Guitar',
-    date: '2019--06--19',
-    video: 'https://www.youtube.com/embed/9X3NZiNLXXU',
-    desc: 'I started learning to play the guitar a year before social distancing. I was always interested in music, and figured that guitars are the easiest to learn and most portable to bring on planes. As per usual, I used YouTube’s full capability to learn how to play the guitar. I didn’t particularly learn the basics of Music or go through the AP music theory course. I namely explored my music taste and would practice playing by looking up “guitar tabs”. Eventually I started to get more and more used to seeing how chords line up and began making my own little remix. My personal music taste lies somewhere between Lo-Fi, Hip-Hop, and a bit of EDM. I’ve grown to see the charm in various kinds of music, from classical, with Beethoven or Mozart, to rap, with Shmurda or Dababy',
-  },
-  {
     title: 'CS50',
     image: '/images/projects/cer-tif.png',
     date: '2021--01--11',
     desc: 'Before taking CS50 I had taken Khan Academy lessons online. From it I learned the fair basics of what code is and touched upon queries. I didn’t find the lessons too difficult and was curious about what CS50 had for me.',
   },
+  {
+    title: 'Zenerate',
+    image: '/images/projects/image.png',
+    date: '2021--07--5',
+    desc: '',
+  },
 ];
 
-export default data;
+const videodata = [
+  {
+    title: '2WD',
+    subtitle: 'This app locates wheelchair accessible bathrooms for those in need.',
+    video: 'https://www.youtube.com/embed/BPfbTg3palo',
+    date: '2021-06  -25',
+    desc: 'A group of friends and I were inspired by the stories we heard of those with disabilities. We realize that we take restrooms for granted on a daily basis, while those with disabilities face obstacles every step of the way when it comes to finding wheelchair-accessible restrooms. This is our design of a potential app for fulfilling this need',
+  },
+  {
+    title: 'Guitar',
+    date: '2019--06--19',
+    video: 'https://www.youtube.com/embed/9X3NZiNLXXU',
+    desc: 'I started learning to play the guitar a year before social distancing. I was always interested in music, and figured that guitars are the easiest to learn and most portable to bring on planes. As per usual, I used YouTube’s full capability to learn how to play the guitar. I didn’t particularly learn the basics of Music or go through the AP music theory course. I namely explored my music taste and would practice playing by looking up “guitar tabs”. Eventually I started to get more and more used to seeing how chords line up and began making my own little remix. My personal music taste lies somewhere between Lo-Fi, Hip-Hop, and a bit of EDM. I’ve grown to see the charm in various kinds of music, from classical, with Beethoven or Mozart, to rap, with Shmurda or Dababy',
+  },
+];
+
+export { data, videodata };
