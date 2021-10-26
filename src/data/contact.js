@@ -6,12 +6,12 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/mldangelo',
+    link: 'https://https://github.com/robin-dot.com/mldangelo',
     label: 'Github',
     icon: faGithub,
   },
   {
-    link: 'https://www.instagram.com/dangelosaurus/',
+    link: 'https://www.instagram.com/robinyoung69/',
     label: 'Instagram',
     icon: faInstagram,
   },

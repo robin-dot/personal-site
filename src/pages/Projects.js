@@ -7,10 +7,11 @@ import Cell from '../components/Projects/Cell';
 import VideoCell from '../components/Projects/VideoCell';
 import { data, videodata } from '../data/projects';
 
+
 const Projects = () => (
   <Main
     title="Projects"
-    description="Learn about my projects."
+    description="Learn About My Projects."
   >
     <article className="post" id="projects">
       <header>

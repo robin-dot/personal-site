@@ -1,4 +1,5 @@
 // TODO Add a couple lines about each project
+import slider from "c:/Users/robin/personal-site/src/components/Projects/slider";
 const data = [
   {
     title: 'interior designing',
