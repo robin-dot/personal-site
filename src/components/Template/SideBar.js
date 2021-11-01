@@ -20,9 +20,11 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hello, I&apos;m Robin, and this is my story.
-        I am a student in Stony Brook School, and in the graduate class of 2022.
-        I was born and raised in Indonesia up until I was 10. Since then I moved to the US, and
-        adapted myself to a new environment and a new system to follow
+        I&apos;m a student at Stony Brook School, Class of 2022.
+        I was born and raised in Indonesia.
+        Currently I&apos;m studying in the US and making
+        the most of opportunities in my new environment and system.
+
       </p>
       <ul className="actions">
         <li>
