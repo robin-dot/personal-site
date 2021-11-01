@@ -1,11 +1,9 @@
-// TODO Add a couple lines about each project
-import slider from module; "c:/Users/robin/personal-site/src/components/Projects/slider";
 const data = [
   {
     title: 'interior designing',
     image: '/images/projects/interior-design-snapshot.png',
     date: '2021-01-9',
-    desc: 'I went to Rumsey Hall for four years, and I was always frustrated by the plainness of my room: an 8x6 ft. shoebox that felt like a cell. If I was lucky, I’d see a rat dashing across the floor. I found comfort in imagining what that room could have been, and so in high school I re-designed my dorm’s interior to feel more like home and a place of comfort',
+    desc: 'I attended Rumsey Hall for four years, and I was always frustrated by the plainness of my room: an 8x6 ft. shoebox that felt like a cell. If I was lucky, I’d get to see a rat dashing across the floor. I found comfort in imagining what that room could have been, and so in high school I re-designed my dorm’s interior to feel more like home and a place of comfort.',
   },
   {
     title: 'Package design',
@@ -18,7 +16,7 @@ const data = [
     subtitle: 'A kickstarter funded potato powered weather balloon.',
     image: '/images/projects/magazine.png',
     date: '2015-06-28',
-    desc: 'I got interested in the process by which a magazine is made. I asked a faculty member who was in charge of the yearbook photos about how he makes the yearbook. He advised me to use Adobe Indesign, and gave me a quick tutorial of how he does a layout. I went back to my room and tried to make my own yearbook. I would pick a random face I find on the internet and play around with it. I found that stretching the image horizontally would give me a funny face to look at for a good amount of time. After playing around with the InDesign feature, I jumped into real magazines and watched various YouTube videos: “how to make magazine InDesign”. From there I stumbled on videos that would cover the process of publishing magazines. ',
+    desc: 'I got interested in the process by which a magazine is made. I asked a faculty member who was in charge of the yearbook photos about how he makes the yearbook. He advised me to use Adobe Indesign, and gave me a quick tutorial of how he does a layout. I went back to my room and tried to make my own yearbook. I would pick a random face I find on the internet and play around with it. I found that stretching the image horizontally would give me a funny face to look at for a good amount of time. After playing around with the InDesign feature, I jumped into real magazines and watched various YouTube videos: “how to make magazine InDesign”. From there I stumbled on videos that would cover the process of publishing magazines.',
   },
   {
     title: 'Loop animation',
@@ -37,7 +35,7 @@ const data = [
     title: 'Zenerate',
     image: '/images/projects/image.png',
     date: '2021--07--5',
-    desc: '',
+    desc: ' I worked with a computational designer on a .csv file of empty lots in the U.S. and was assigned to make a program that labeled their edges as front, rear, or sides. It was challenging to look for an answer with no definite solution—but an unbeatable satisfaction when I wrote a program that worked. These experiences make me eager to start my career in computer science—both as a student exploring concepts and as a professional solving problems with practical applications.',
   },
 ];
 
@@ -47,13 +45,13 @@ const videodata = [
     subtitle: 'This app locates wheelchair accessible bathrooms for those in need.',
     video: 'https://www.youtube.com/embed/BPfbTg3palo',
     date: '2021-06  -25',
-    desc: 'A group of friends and I were inspired by the stories we heard of those with disabilities. We realize that we take restrooms for granted on a daily basis, while those with disabilities face obstacles every step of the way when it comes to finding wheelchair-accessible restrooms. This is our design of a potential app for fulfilling this need',
+    desc: 'A group of friends and I were inspired by the stories we heard of those with disabilities. We realize that we take restrooms for granted on a daily basis, while those with disabilities face obstacles every step of the way when it comes to finding wheelchair-accessible restrooms. This is our design of a potential app for fulfilling this need.',
   },
   {
     title: 'Guitar',
     date: '2019--06--19',
     video: 'https://www.youtube.com/embed/9X3NZiNLXXU',
-    desc: 'I started learning to play the guitar a year before social distancing. I was always interested in music, and figured that guitars are the easiest to learn and most portable to bring on planes. As per usual, I used YouTube’s full capability to learn how to play the guitar. I didn’t particularly learn the basics of Music or go through the AP music theory course. I namely explored my music taste and would practice playing by looking up “guitar tabs”. Eventually I started to get more and more used to seeing how chords line up and began making my own little remix. My personal music taste lies somewhere between Lo-Fi, Hip-Hop, and a bit of EDM. I’ve grown to see the charm in various kinds of music, from classical, with Beethoven or Mozart, to rap, with Shmurda or Dababy',
+    desc: 'I started learning to play the guitar a year before social distancing. I was always interested in music, and figured that guitars are the easiest to learn and most portable to bring on planes. As per usual, I used YouTube’s full capability to learn how to play the guitar. I didn’t particularly learn the basics of Music or go through the AP music theory course. I namely explored my music taste and would practice playing by looking up “guitar tabs”. Eventually I started to get more and more used to seeing how chords line up and began making my own little remix. My personal music taste lies somewhere between Lo-Fi, Hip-Hop, and a bit of EDM. I’ve grown to see the charm in various kinds of music, from classical, with Beethoven or Mozart, to rap, with Shmurda or Dababy.',
   },
 ];
 

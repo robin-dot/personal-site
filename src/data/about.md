@@ -1,6 +1,6 @@
 # Intro
  
-Hello, my name is Robin Young. I was born and raised in Indonesia, and moved to the US at the age of ten. I have tried various activities, and ended up making a small project for myself. I am currently attending my senior year at high school (graduation 2022) in Stony Brook School. I tend to be interested in the processes of making a product such as music, buildings, video games, companies, or food. I also enjoy cooking. Cooking relaxes me, but also gives me a sense of excitement.
+Hello, my name is Robin Young. I was born and raised in Indonesia, and moved to the US at the age of ten. I have tried various activities, and ended up making a small project for myself. I am currently attending my senior year of high school (graduation 2022) at Stony Brook School. I tend to be interested in the processes of making a product such as music, buildings, video games, companies, or food. I also enjoy cooking. Cooking relaxes me, but also gives me a sense of excitement.
  
 # Currently
  
@@ -16,49 +16,47 @@ At Stony Brook School, my day starts by waking up at 7:30am. The academic day go
  
 - I broke my right arm at the age of 4. I learned to write with my left from this incident.
  
-- I played the piano twice a week and performed in a group playing Mamma Mia
+- I played the piano twice a week and performed in a group playing Mamma Mia.
  
-- At the age of 9 my sister lift for the US
+- At the age of 10, I left for the US.
  
-- At the age of 10 I left for the US
+- I moved from rented house to rented house for my first year in the US.
  
-- I moved from rented house to rented house for my first year in the US
+- My first year of school in the US was at St. Bartholomew School.
  
-- My first year of school in the US was a private catholic school St.Bartholomew, though it had more of a public school vibe to it
+- At the age of 11, I entered Rumsey Hall as a 6th grader. 
  
-- At the age of 11 I went to the same school my sister left for: Rumsey Hall. I entered as a 6th grader
+- I played lacrosse for the very first time in 6th grade.
  
-- I played lacrosse for the very first time in 6th grade
+- I was the only other male boarder, apart from my roommate, who was in 6th grade.
  
-- I was the only other male border, apart from my roommate, who was in 6th grade
+- I found interest in hand drawing, and drew various things from story characters to Pokémon.
  
-- I found interest in hand drawing, and drew various things from story characters to pokemon
+- In 7th grade, I made new friends and found my place.
  
-- In 7th grade, I made new friends and found a place to belong in until I graduate
+- In 8th grade, I learned to ski for the first time.
  
-- In 8th grade, I learned to ski for the first time
+- In 9th grade, I learned to snowboard, which I preferred more.
  
-- In 9th grade, I learned to snowboard, which I preferred more
+- The summer I turned 14, I went surfing for the first time.
  
-- The summer I turned 14, I went surfing for the first time. But my parents say that I’ve done it earlier, which I don’t remember
+- The following year, I was re-inspired to play music, so I picked up the guitar.
  
-- The following year, I was re-inspired to play music, so I picked up the easiest and most portable instrument: the guitar
+- The same year, I began to explore my curiosities and interest, landing me at music composition.
  
-- The same year, I began to explore my curiosities and interest, landing me at music composition
- 
-- At the age of 15 I began fiddling with a music compiling app, Fruity Loop. I watched youtube tutorials for the most part
+- At the age of 15, I began fiddling with a music compiling app, Fruity Loop. I watched YouTube tutorials for the most part.
  
 - At the age of 16, still exploring my curiosities, I found programming/coding.
  
-- I spent time watching YouTube videos as well as things I find on “stack overflow” to learn the basics -- I noticed that knowing some basics in programming could benefit in the gaming realm
+- I spent time watching YouTube videos as well as things I find on “stack overflow” to learn the basics -- I noticed that knowing some basics in programming could benefit in the gaming realm.
  
-- I would question how phones are programmed or how autonomous can a code be
+- I would question how phones are programmed or how autonomous a code can be.
  
-- At the age of 17 I was reminded of the existence of AI and found interest in this subject
+- At the age of 17, I was reminded of the existence of AI and found interest in this subject.
  
-- During the summer I turned 18, I joined a program “Design the Future” and made an app, 2WDA, that helped wheelchair users find wheelchair accessible bathrooms. I also got an internship in Zenerate
+- During the summer I turned 18, I was selected for a program “Design the Future” and made an app, 2WDA, that helped wheelchair users find wheelchair accessible bathrooms. I also became a computational intern at Zenerate.
  
-- In Zenerate, I was given a csv file of shapes. These shapes were specific to the shape of a lot, the piece of land. I was tasked to identify the shape and label the edges as front, rear, or side.
+- At Zenerate, I collaborated with a computational designer on a .csv file of lots in the US. I was tasked to create a prorgam that identifies the shape of the lots and label the edges as front, rear, or side.
  
  
 # Hobbies

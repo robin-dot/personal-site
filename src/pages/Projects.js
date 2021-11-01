@@ -7,7 +7,6 @@ import Cell from '../components/Projects/Cell';
 import VideoCell from '../components/Projects/VideoCell';
 import { data, videodata } from '../data/projects';
 
-
 const Projects = () => (
   <Main
     title="Projects"

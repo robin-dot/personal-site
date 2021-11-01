@@ -26,8 +26,8 @@ const data = [
   },
   {
     key: 'number',
-    label: 'Best SAT Score',
-    value: 1500,
+    label: '# of Pets Owned total',
+    value: 16,
   },
   {
     key: 'location',
