@@ -1,24 +1,22 @@
 # Intro
  
-Hello, my name is Robin Young. I was born and raised in Indonesia, and moved to the US at the age of ten. I have tried various activities, and ended up making a small project for myself. I am currently attending my senior year of high school (graduation 2022) at Stony Brook School. I tend to be interested in the processes of making a product such as music, buildings, video games, companies, or food. I also enjoy cooking. Cooking relaxes me, but also gives me a sense of excitement.
+Hello, my name is Robin Young. I was born and raised in Indonesia. I have tried various activities, and ended up making a small project for myself. I am currently attending my senior year of high school (graduation 2022) at Stony Brook School. I tend to be interested in the processes of making a product such as music, buildings, video games, companies, or food. I also enjoy cooking. Cooking relaxes me, but also gives me a sense of excitement.
  
 # Currently
  
-At Stony Brook School, my day starts by waking up at 7:30am. The academic day goes from 8am - 3:15pm, and after that there are sports from 4pm - 5:30pm/6pm (depending on the sport). After sports, day-students go back home and boarding students have dinner from 6pm - 7pm. Then study hall from 7:30pm - 9:15pm, and then lights-out at 11pm. As for the classes I am currently taking, they are AP Stats, AP Computer Science, AP US history, AP English literature, and Linear Algebra. Due to this, my workload would last me from the start of studyhall to 11pm -- 10pm if I'm lucky. I spend much of my weekend doing this like making this website, playing my guitar, watching food videos, and answering my curiosities.
- 
+At Stony Brook School, my day starts at 6:30am. The academic day goes from 8am - 3:15pm, and after that, there are sports from 4pm - 5:30pm/6pm (depending on the sport). After sports, day-students leave campus and boarding students have dinner from 6pm - 7pm. Study hall takes place from 7:30pm - 9:15pm. As for the classes I am currently taking, I am challenging myself in AP Stats, AP Computer Science, AP US History, AP English Literature, and Linear Algebra. During the weekend, I spend much of my time exploring my intellectual and personal curiosities.
+
 # Some history
  
-- The first ten years of my life I lived in Indonesia. I would never miss the long dreadful traffic I frequently had to encounter on my way to school and back from school. I lived in an apartment that included a big park on its property. I made friends with other kids living in my apartment and got familiar with the staff/security guards.
+- The first ten years of my life, I lived in Indonesia. I lived in an apartment that included a big park. I not only made friends with other kids living in my apartment but also with the staff/security guards.
  
-- Everyday, after school, I would call my friends to meet at the park: typically at 4pm and we would all go back at 6pm for 7pm. I would usually manage to gather around eight to nine people, and depending on the people who came, we would either play soccer or hide and seek tag.
- 
-- At times, the rules for hide and seek tags can get a bit absurd with more people, such as adding the word "zombie" after "seek", or allowing hiding spots on specific floors: usually the ground level. When it comes to hiding on the ground floor, I would always cheat by asking the staff to hide me in an obvious spot and mislead the seekers. From this I learned the power of having connections.
+- Every day, after school, I would call my friends to meet at the park typically at 4pm and play until 6pm. I would usually manage to gather around eight to nine people, and depending on those who came, we would either play soccer or hide and seek tag.
  
 - I broke my right arm at the age of 4. I learned to write with my left from this incident.
  
 - I played the piano twice a week and performed in a group playing Mamma Mia.
  
-- At the age of 10, I left for the US.
+- At the age of 10, I left to study in the US.
  
 - I moved from rented house to rented house for my first year in the US.
  
@@ -75,6 +73,6 @@ At Stony Brook School, my day starts by waking up at 7:30am. The academic day go
  
 - 3D modeling
  
-- listening to music (Lo-Fi)
+- Listening to music (Lo-Fi)
  
-- Learning / experiencing new things
+- Learning / Experiencing new things
