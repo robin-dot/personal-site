@@ -4,7 +4,7 @@ Hello, my name is Robin Young. I was born and raised in Indonesia. I have tried 
  
 # Currently
  
-At Stony Brook School, my day starts at 6:30am. The academic day goes from 8am - 3:15pm, and after that, there are sports from 4pm - 5:30pm/6pm (depending on the sport). After sports, day-students leave campus and boarding students have dinner from 6pm - 7pm. Study hall takes place from 7:30pm - 9:15pm. As for the classes I am currently taking, I am challenging myself in AP Stats, AP Computer Science, AP US History, AP English Literature, and Linear Algebra. During the weekend, I spend much of my time exploring my intellectual and personal curiosities.
+At Stony Brook School, my day starts at 6:30am. The academic day goes from 8am - 3:15pm, and after that, there are sports from 4pm - 5:30pm/6pm (depending on the sport). After sports, day-students leave campus and boarding students have dinner from 6pm - 7pm. Study hall takes place from 7:30pm - 9:15pm. As for the classes I am currently taking, I am challenging myself in AP Stats, AP Computer Science, AP US History, AP English Literature, and Linear Algebra. During the weekend, I spend much of my time exploring my intellectual and personal curiosities. 
 
 # Some history
  
