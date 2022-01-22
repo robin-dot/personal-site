@@ -1,5 +1,11 @@
 const data = [
   {
+    title: 'Data Visualization',
+    image: '/images/projects/map.gif',
+    date: '2022-01-22',
+    desc: "I'm a visual learner, and I decide to try visualizing a dataset. Given the recent jump in gas prices across the country I decided to collect historical data on consumer gas prices from the Department of Energy and visualize it as something that everyone could hopefully easily understand.",
+  },
+  {
     title: 'interior designing',
     image: '/images/projects/interior-design-snapshot.png',
     date: '2021-01-9',
